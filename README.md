@@ -1,5 +1,5 @@
 ### About Me:
-- 😘 Hi, I’m @Iv7soft@
+- 😘 Hi, I’m @Iv7dev@
 - 👀 I’m passionate in Software Engineering & Ethereum World
 - 💫 I’m currently focusing on Smart Contract and learning Rust/Go
 - 💞️ I’m looking to collaborate on Smart Contract Development
