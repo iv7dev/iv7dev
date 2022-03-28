@@ -1,27 +1,30 @@
 ### About Me:
 - 😘 Hi, I’m @Iv7dev@
 - 👀 I’m passionate in Software Engineering & Ethereum World
-- 💫 I’m currently focusing on Smart Contract and learning Rust/Go
-- 💞️ I’m looking to collaborate on Smart Contract Development
+- 💫 I’m currently focusing on Smart Contract,learning Rust/Go and NextJs with Chakra-UI
+- 💞️ I’m looking to collaborate on Smart Contract Development and Frontend Dapps.
 
 ### Languages and Tools:
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
-[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/truelifedev/)](https://github.com/truelifedev/)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/truelifedev/)
+[![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/Iv7soft/)](https://github.com/truelifedev/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/)
 
-[![Solidity](https://github.com/truelifedev/truelifedev/blob/main/solidity.png)](https://github.com/truelifedev/)
-[![Rust](https://github.com/truelifedev/truelifedev/blob/main/rust.png)](https://github.com/truelifedev/)
-[![Go](https://github.com/truelifedev/truelifedev/blob/main/go.png)](https://github.com/truelifedev/)
+[![Solidity](https://github.com/truelifedev/truelifedev/blob/main/solidity.png)](https://github.com/Iv7soft/)
+[![Rust](https://github.com/truelifedev/truelifedev/blob/main/rust.png)](https://github.com/Iv7soft/)
+[![Go](https://github.com/truelifedev/truelifedev/blob/main/go.png)](https://github.com/Iv7soft/)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/truelifedev/)](https://github.com/Iv7soft/) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/truelifedev/)](https://github.com/Iv7soft/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/truelifedev/)](https://github.com/Iv7soft/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/truelifedev/)](https://github.com/Iv7soft/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/truelifedev/)](https://github.com/Iv7soft/)
 
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/truelifedev/) 
+[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/truelifedev/) 
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/) 
+[![Next Js](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/) 
+[![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white&link=https://github.com/Iv7soft/)](https://github.com/Iv7soft/) 
+
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/Iv7soft/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/Iv7soft/)
@@ -42,7 +45,7 @@
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/Iv7soft/)
 
 --- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iv7soft&theme=white" /> 
+
 <p align="center">
 <a href="https://t.me/iv7.dev" rel="nofollow">
   <img src="https://camo.githubusercontent.com/0ea1367897b9ee948089a0db824d57a30ce8a5413b59f80d2062b7efcd39ceb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74656c656772616d2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/telegram-%230077B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width:100%;">
@@ -54,9 +57,7 @@
   <img src="https://camo.githubusercontent.com/44d159cb65c2e906ed744052efc1c933364dddc8f2735fe0782a5f60594ff22d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c206d652d2532333144413146332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/email me-%231DA1F3.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width:100%;">
 </a>&nbsp;&nbsp;
 </p>
-
-
-<img align="right" alt="truelifedev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iv7soft&show_icons=true&hide_border=true" /><br />
+<br />
 
 
 [github]: https://github.com/Iv7soft/
