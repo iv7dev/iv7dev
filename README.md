@@ -57,7 +57,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/satoterin/satoterin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/iv7dev/iv7dev)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satoterin&theme=onedark)](https://git.io/streak-stats)
 
