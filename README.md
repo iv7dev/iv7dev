@@ -59,6 +59,6 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/iv7dev/iv7dev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satoterin&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iv7dev&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
