@@ -31,6 +31,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 :small_blue_diamond: 💬 Ask me about web and blockchain development
 
 :small_blue_diamond: 📫 How to reach me: iv7dev@gmail.com
+
 :small_blue_diamond: 📫 How to reach me on telegram: @iv7dev
 
 ### Languages and Tools:
