@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![iv7dev stats](https://github-readme-stats.vercel.app/api?username=iv7dev&hide=contribs&show_icons=true&theme=tokyonight)](#)
-
-
-# Welcome to **my world**
+# Welcome to **my github**
 
 Am a senior Full-Stack & Blockchain developer who likes to work with JavaScript/Typescript (Nextjs, React, Vue.js, TensorFlow.js, Node, Nest), Blockchain(Bitcoin, Ethereum, Solidity, ERC20, ERC721, ERC1155), Python among others.
 Since I've graduated the university, I’ve joined several companies and dev teams to build web and defi apps.
@@ -55,6 +52,7 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
 #### Web & Mobile Development
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=skyblue&color=skyblue)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=lightgreen&color=3bac3a)
@@ -64,6 +62,9 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=blue&color=blue)
+![](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Language-Swift-informational?style=flat&logo=swift&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
@@ -77,9 +78,5 @@ Since I've graduated the university, I’ve joined several companies and dev tea
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=satoterin&theme=onedark)](https://github.com/iv7dev/iv7dev)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=iv7dev&theme=dark)](https://git.io/streak-stats)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-jin-102509205/)](https://www.linkedin.com/in/steve-jin-102509205/)  -->
