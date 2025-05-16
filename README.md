@@ -19,10 +19,11 @@ Aquí hay algunas ideas para comenzar:
 
 - 🔭 Actualmente estoy trabajando en AGENTES VIRTUALES PARA REAL ESTATE
 
+<a href="https://app.daily.dev/iv7dev"><img src="https://api.daily.dev/devcards/v2/2bOPqkzw5ZM8aBdfm6J0d.png?r=993&type=wide" width="652" alt="Iv7dev's Dev Card"/></a>
+
 Soy un desarrollador senior Full-Stack, Blockchain e IA con experiencia en JavaScript/TypeScript (Next.js, React, Vue.js, Node.js, Nest), Blockchain (Bitcoin, Ethereum, Solidity, Smart Contracts, DeFi), tecnologías de IA (LLMs, sistemas RAG, IA Agéntica) y Python entre otros.
 
 Desde que me gradué de la universidad, he colaborado con múltiples empresas y equipos de desarrollo para construir aplicaciones web innovadoras, soluciones DeFi y sistemas impulsados por IA.
-<a href="https://app.daily.dev/Iv7dev"><img align="right" src="https://api.daily.dev/devcards/745af3166b5e48669b596b510f716e89.png?r=3p1" width="250" alt="Tarjeta Dev de Iv7dev"/></a>
 
 :small_blue_diamond: :muscle: Con más de +9 años de experiencia en desarrollo web, blockchain e integración de IA.
 
@@ -121,13 +122,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://app.daily.dev/iv7dev"><img src="https://api.daily.dev/devcards/v2/2bOPqkzw5ZM8aBdfm6J0d.png?r=993&type=wide" width="652" alt="Iv7dev's Dev Card"/></a>
 # Welcome to **my github**
 
 I'm a senior Full-Stack, Blockchain & AI Developer with expertise in JavaScript/TypeScript (Next.js, React, Vue.js, Node.js, Nest), Blockchain (Bitcoin, Ethereum, Solidity, Smart Contracts, DeFi), AI technologies (LLMs, RAG systems, Agentic AI), and Python among others.
 
 Since graduating from university, I've collaborated with multiple companies and development teams to build innovative web applications, DeFi solutions, and AI-powered systems.
-<a href="https://app.daily.dev/Iv7dev"><img align="right" src="https://api.daily.dev/devcards/745af3166b5e48669b596b510f716e89.png?r=3p1" width="250" alt="Iv7dev's Dev Card"/></a>
 
 :small_blue_diamond: :muscle: With over +9 years of experience in web development, blockchain, and AI integration.
 
